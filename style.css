@@ -1,0 +1,27 @@
+* {
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+        background: linear-gradient(300deg, #5769F7, #4AD4BB, #58F59E);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+        width: 100%;
+      }
+.hero img {
+    border-radius: 20%;
+}
+.col h3 {
+    color: #5769F7;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #58F59E;
+}
+.entirely {
+    color: #5769F7;
+    color: #4AD4BB;
+    color: #58F59E;
+}
